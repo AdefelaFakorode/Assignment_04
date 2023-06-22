@@ -15,13 +15,13 @@ const posters = [
   },
   {
     image:
-      "https://64.media.tumblr.com/a811a68c1860122e5ad73f9e925161a6/61edcb3e7fa35bdd-29/s1280x1920/523e9760a2a4629f7ad03fb0979e20c0e30bc063.jpg", //spike
+      "https://hips.hearstapps.com/hmg-prod/images/vinland-saga-season-2-thorfinn-646e3bd9d0a7b.png?crop=0.563xw:1.00xh;0.220xw,0&resize=1200:*", //throfinn
     title: "A cool guy once said:",
     quote:
       "Like will challenge you to do things...sometimes, you just have to let it go!",
   },
   {
-    image: "https://www.nautiljon.com/images/perso/00/25/ali_baba_8952.webp", //alibaba
+    image: "https://th.bing.com/th/id/OIP.rO_5-nc29IverzXEdecDXwHaHa?w=202&h=202&c=7&r=0&o=5&pid=1.7", //Trunks
     title: "A funny guy once said:",
     quote: "As long as a man has money, he'll be popular!",
   },
@@ -34,7 +34,7 @@ const posters = [
   },
   {
     image:
-      "https://wallpapers.com/images/hd/uchiha-itachi-pfp-anime-digital-art-yvx3otzrvsjpgrq6.jpg", //itachi
+      "https://static.wikia.nocookie.net/a10c99d3-5908-4636-b015-4ec5a90114bb/scale-to-width/755", //Rengoku
     title: "A wise man once said:",
     quote:
       "No single thing is perfect by itself. Thats why were born to attract other things to make up for what we lack.",
