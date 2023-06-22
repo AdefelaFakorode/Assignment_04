@@ -1,0 +1,70 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #111111;
+  color: #fff;
+}
+
+header {
+  text-align: center;
+  padding: 20px;
+}
+
+.poster {
+  margin: 20px;
+  padding: 20px;
+  border-radius: 5px;
+  text-align: center;
+}
+
+#poster-image {
+  width: 600px;
+  height: 600px;
+  margin-bottom: 10px;
+  border-radius: 50%;
+}
+
+#poster-title {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+#poster-quote {
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+}
+
+button {
+  display: block;
+  margin: 10px auto;
+  padding: 10px 20px;
+  background-color: rgb(92, 0, 92);
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: larger;
+}
+
+input {
+  display: block;
+  margin: 15px auto;
+  padding: 15px;
+  width: 80%;
+  border: 1px solid purple;
+  border-radius: 5px;
+}
+
+h1, h3 {
+  color:  rgb(190, 25, 190);
+}
+
+h2{
+  color: rgb(225, 172, 225);
+}
+
+#submit {
+  background-color: purple;
+  color: white;
+}
